@@ -1,4 +1,4 @@
-#Output
+# Output
 Enter the first number: 12
 <br>
 Enter the second number: 23
